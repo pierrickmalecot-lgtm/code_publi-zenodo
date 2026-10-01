@@ -1,0 +1,23 @@
+{
+  "upload_type": "software",
+  "title": "A multi-scale framework for reliable surface-function correlation: MATLAB code",
+  "description": "MATLAB code reproducing every simulation result, table and figure of the paper 'A multi-scale framework for reliable surface-function correlation'. The framework applies three gates scale by scale (discrimination, reliability, functional correlation), followed by bootstrap and leave-one-specimen-out robustness checks. run_all.m runs the whole chain; README.md maps each table and figure of the paper to the script that produces it.",
+  "creators": [
+    {
+      "name": "MALECOT, Pierrick",
+      "affiliation": "affiliation": "Académie militaire de Saint-Cyr Coëtquidan, CREC Saint-Cyr, 56381 Guer, France; IRDL, UMR CNRS 6027, Univ. Bretagne Sud, Bretagne INP, ENSTA Bretagne, Institut Polytechnique de Paris, Univ. Brest, F-56100 Lorient, France",
+      "orcid": "0000-0003-3849-0669"
+    }
+  ],
+  "license": "GPL-3.0-only",
+  "keywords": [
+    "surface metrology",
+    "surface topography",
+    "multi-scale analysis",
+    "surface-function correlation",
+    "intraclass correlation coefficient",
+    "linear mixed-effects models",
+    "MATLAB"
+  ],
+  "version": "1.0.0"
+}
